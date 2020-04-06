@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+
+*.egg-info/
+.installed.cfg
+*.egg
+.selectcache/
+.venv/
+ald/*
+
+# emacs editor files
+*~
+.idea
+
+.pytest_cache/*
